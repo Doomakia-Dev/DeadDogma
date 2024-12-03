@@ -1,7 +1,12 @@
-- Turn Order
+# Turn Order
 
-- Your turn
+# Your turn
+## Actions
+## Free action
+## Reaction
 
-- Action Traits
+# Movement
 
-- Movement
+# Action Traits
+## Strike
+## Stride
