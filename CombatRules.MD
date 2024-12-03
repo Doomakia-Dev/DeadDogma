@@ -2,6 +2,6 @@
 
 - Your turn
 
-- Actions Traits
+- Action Traits
 
 - Movement
