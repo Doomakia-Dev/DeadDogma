@@ -1,7 +1,7 @@
-- Turn Order -
+- Turn Order
 
-- Your turn -
+- Your turn
 
-- Actions Traits -
+- Actions Traits
 
-- Movement -
+- Movement
