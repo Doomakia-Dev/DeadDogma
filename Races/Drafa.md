@@ -8,9 +8,7 @@ As it is their most prominent feature, a Drafa's snout has a fair amount of vari
 Drafas can also have antlers, which can resemble that of any real life Cervidae. The root of the antlers can be positioned on their temples, above their foreheads, right between their ears (if applicable) or their antlers can be at different positions. A Drafa's antlers are quite sensitive **in the bad way**, causing an ache if touched or severe pain upon impacts, damage or breaking.
 
 They also have a small variety of different kinds of ears, resembling that of a Canidae's, Bovidae's or Leporidae's. Their ears are often quite large, and can result in them being rather floppy, especially Leporidae ears that are often irregularly long.
-### Progenitors
-[[Pure-bloods]]
-[[Celestials#The Dragon Gods|Dragon gods]]
+
 # Capabilities
 Can shoot elemental magic out their nostrils, dictated by their specific draconic progenitor. This uses the oxygen within their lungs as a fuel source so it can be very exhausting to overuse.
 ## Breath [PH]
