@@ -2,14 +2,14 @@ A lot of this is going to be slightly altered Pathfinder 2nd edition. Just so yo
 
 # Turn Order
 
-# Your turn
-In combat, each creature gets 3 **Action Points (AP), **Reactions** and **Free Actions**
+## Your Turn
+In combat, each combatant has 3 **Action Points (AP)**, **Reactions** and **Free Actions**.
 Combatants gain all 3 AP and their Free action at the start of the encounter and when they end their turn. Before elaborating, though, players must know the start of your turn is just as important as what you do on your turn.
 
 ## Starting your turn
 
 - Any effects that are supposed to occur each turn should be applied before making actions, such as passive healing or the persistent effects of a condition.
-- If you have any conditions applies before combat began or from a previous round, reduce the time remaining for that condition by one round. If the condition reduces to 0, remove the condition.
+- If you have any conditions that apply before combat began or from a previous round, reduce the time remaining for that condition by one round. If the condition reduces to 0, remove the condition.
 - You can use Free Actions or Reactions that trigger at the start of your turn before using an AP.
 - If you are in Critical Condition, Roll a save at a DC of 11 (Temp ruling).
 

@@ -11,29 +11,32 @@
             "id": "43556bf433e20741",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Traits/Thrown.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Thrown"
             }
-          }
-        ]
-      },
-      {
-        "id": "3adfb675733ae755",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "44f914d28543408a",
+            "id": "7107fa4b6cdd0f2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Combat Encounters/CombatRules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CombatRules"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,6 +48,7 @@
       {
         "id": "bd68db4a7a409a5b",
         "type": "tabs",
+        "dimension": 57.70423991726991,
         "children": [
           {
             "id": "962a8246cfdef3a8",
@@ -86,10 +90,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "6a5d0f358de1b809",
+        "type": "tabs",
+        "dimension": 42.29576008273009,
+        "children": [
+          {
+            "id": "44f914d28543408a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 527.5
   },
   "right": {
     "id": "230b39a937e9f50e",
@@ -170,39 +191,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43556bf433e20741",
+  "active": "7107fa4b6cdd0f2b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "DeadDogma/README.md",
-    "DeadDogma",
-    "CombatRules.md",
-    "README.md",
-    "CombatRules.MD",
-    "Races/pure-blood.md",
+    "Rules/Actions/Strike.md",
+    "Rules/Character Creation/Ability Scores.md",
+    "Rules/Difficulty Classes.md",
+    "Rules/Traits/Thrown.md",
+    "Rules/Actions/Brew.md",
+    "Rules/Actions/Mix.md",
+    "Rules/Character Creation",
+    "Rules/Traits/Potion.md",
+    "Items/Consumables/Potion Of Healing.md",
+    "Pasted image 20241204022013.png",
     "Races/Silhou.md",
     "Races/Seraph.md",
-    "Races/Floran.md",
-    "Races/Drafa.md",
-    "Races/Beetali.md",
-    "Races",
+    "Rules/Traits/Item.md",
+    "Rules/Actions/Throwing.md",
+    "Rules/Combat Encounters/CombatRules.md",
+    "Rules/Traits",
+    "README.md",
+    "Rules/Basic Rules.md",
+    "Rules/Combat Encounters",
     "Guilds/Smith.md",
+    "Alchemy/Ingredients.md",
+    "Rules/Actions/Drink.md",
+    "Rules/Actions/Spill.md",
+    "Races/Pure-Blood.md",
     "Guilds/Miner.md",
     "Guilds/Hunter.md",
     "Guilds/Guardian.md",
     "Guilds/BeastTamer.md",
     "Guilds/Alchemist.md",
+    "Items/Consumables",
+    "Items",
+    "Races/Drafa.md",
+    "DeadDogma",
+    "Races",
     "Guilds",
-    "Alchemy/Rules/Basic Rules.md",
-    "Alchemy/Rules",
-    "Alchemy/Actions/Throw.md",
-    "Alchemy/Actions/Spill.md",
-    "Alchemy/Actions/Mixing.md",
-    "Alchemy/Actions/Drink.md",
-    "Alchemy/Actions",
-    "Alchemy/Ingredients.md",
-    "Alchemy",
-    "DeadDogma-main.zip",
-    "Untitled",
-    "Welcome.md"
+    "Rules",
+    "Rules/Actions"
   ]
 }
