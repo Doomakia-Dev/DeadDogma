@@ -22,3 +22,8 @@ When you make a Melee Strike, your range has an additional 5ft
 [Silhou][Unarmed][Brawling][Finesse]
 
 You can use your claws to make an unarmed strike against a target, dealing 1d6 slashing damage.
+
+## Vantablack shadow
+[Silhou]
+
+When in perfect darkness, add half your proficiency (rounded down) to your stealth roll, even if you already have proficiency or expertise in the skill.
