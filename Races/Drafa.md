@@ -1,5 +1,10 @@
 # Anatomy
 fluffy dwarves with the features of many different creatures, their most prominent trait being their large snouts that allow them to exhale magic. Drafas also boast equine legs with a large tail, along with large animalistic ears which vary from Drafa to Drafa in how they look. Drafas are also born with antlers, but are often removed. Some organs are oddly placed, such as their heart being placed behind their lungs.
+
+Size - Small, rarely Medium
+
+Speed - 30ft
+
 ## Variety
 There's 4 types of Drafa. Fire, Ice, Earth and Lightning. The fur colour of a Drafa often takes on colours associated with the element, though it's more often than not natural hair colours that *kind of* give the impression of their element.
 
