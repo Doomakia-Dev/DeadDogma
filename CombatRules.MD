@@ -3,7 +3,7 @@ A lot of this is going to be slightly altered Pathfinder 2nd edition. Just so yo
 # Turn Order
 
 # Your turn
-In combat, each creature gets 3 **Action Points (AP), **Reactions** and **Free Actions**
+In combat, each creature gets 3 **Action Points (AP), a **Reaction** and **Free Actions**
 Combatants gain all 3 AP and their Free action at the start of the encounter and when they end their turn. Before elaborating, though, players must know the start of your turn is just as important as what you do on your turn.
 
 ## Starting your turn
@@ -27,7 +27,6 @@ While many actions rely on your Race and Guild, there's default actions anyone c
 
 ## Reaction
 A Reaction is a type of action made in response to a certain condition or trigger being met. This could be getting attacked, an enemy stepping out of your reach or catching yourself from a fall.
-Your first Reaction before your next turn is always free, however if you want to use another Reaction you'll have to use an AP. If this Reaction is made out of your turn, it will cost an AP from your upcoming turn.
 Though rare, if multiple Reactions triggers are met at once, you must decide on only using one Reaction, especially if those Reactions share the same trigger.
 
 ## Free Action
