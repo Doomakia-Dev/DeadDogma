@@ -23,7 +23,7 @@ While many actions rely on your Race and Guild, there's default actions anyone c
 - Stride
 - Leap
 - Escape
-- Interest
+- Interact
 
 ## Reaction
 A Reaction is a type of action made in response to a certain condition or trigger being met. This could be getting attacked, an enemy stepping out of your reach or catching yourself from a fall.
