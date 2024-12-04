@@ -3,7 +3,7 @@ Silhou are feline fellows that all share shadowy black short-haired fur and long
 
 Size - Medium, rarely small
 
-Speed - 40 feet (8 squares)
+Speed - 40 feet
 
 ## Variety
 The most glaring feature of a Silhou would be their eyes. The amount of eyes a Silhou has can range from 2 or a single eye on the left or right of their face. The colour varies, possible of taking on more cat-like colourisation or human tones. The shape of their eyes can signify the age of of a Silhou, being born with very large round eyes and as they age they take on more almond, flatter shapes. It is to the noted that some Silhou don't grow out of their bigger eyes.
