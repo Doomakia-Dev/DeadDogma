@@ -1,7 +1,7 @@
 # Anatomy
 Silhou are feline fellows that all share shadowy black short-haired fur and long, lanky 3-clawed arms. They have the token feline characteristics, being their pointy ears, a long thin tail and large feline eyes (or singular eye) that seems to be their only facial feature at first glance. Their mouthes are rarely visible even when talking, but are capable of opening visibly wide to reveal a forray of dagger-sharp teeth. Their high metabolism, slim physique and hollow bones allow them to run much faster than your usual person.
 
-Size - Small
+Size - Medium, rarely small
 
 Speed - 40 feet (8 squares)
 
