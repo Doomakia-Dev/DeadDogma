@@ -11,3 +11,12 @@ The most glaring feature of a Silhou would be their eyes. The amount of eyes a S
 A Silhou's hair is always quite spiky and defined to stand outfrom the rest of their silhouette. While naturally black with the rest of their fur, some Silhou change the colour of their hair or even other patches on their body to better stand out from the rest of their head or body. Their tails can also vary from very slim with a rounded end to being incredibly fuzzy like that of a maine coon's
 
 #  Capabilities
+Using their lightweight body, they perform feats of impressive agility to evade danger.
+
+## Long limbed
+[Silhou]
+When you make a Melee Strike, your range has an additional 5ft
+
+## Gob-kat claws
+[Silhou][Unarmed][Brawling][Finesse]
+You can use your claws to make an unarmed strike against a target, dealing 1d6 slashing damage.
