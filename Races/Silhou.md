@@ -15,8 +15,10 @@ Using their lightweight body, they perform feats of impressive agility to evade 
 
 ## Long limbed
 [Silhou]
+
 When you make a Melee Strike, your range has an additional 5ft
 
 ## Gob-kat claws
 [Silhou][Unarmed][Brawling][Finesse]
+
 You can use your claws to make an unarmed strike against a target, dealing 1d6 slashing damage.
