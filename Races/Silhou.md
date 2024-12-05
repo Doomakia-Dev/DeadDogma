@@ -13,15 +13,12 @@ A Silhou's hair is always quite spiky and defined to stand outfrom the rest of t
 #  Capabilities
 Using their lightweight body, they perform feats of impressive agility to evade danger.
 
-## Long limbed
+## Gob-kat limbs
 [Silhou]
 
-When you make a Melee Strike, your range has an additional 5ft
+Your lanky arms grant you extra reach. When you make a Melee Strike, your range has an additional 5ft.
 
-## Gob-kat claws
-[Silhou][Unarmed][Brawling][Finesse]
-
-You can use your claws to make an unarmed strike against a target, dealing 1d6 slashing damage.
+You can use your claws to make an unarmed strike against a target, dealing 1d6 slashing damage. This attack counts as [Unarmed], [Brawling] and [Finesse]
 
 ## Feline reflexes (reaction)
 [Silhou]
