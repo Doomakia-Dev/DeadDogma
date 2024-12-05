@@ -18,13 +18,11 @@ Due to their metal chitin, they are capable of withstanding incredible blows. Th
 ```
 [Beetali][Passive]
 
-A Beetali's metallic chitin makes it hard to land a meaningful blow. 
+When hit by slashing, piercing or bludgeoning damage, reduce the damage taken by your proficiency modifier.
 
-Your natural AC is 13 + Your proficiency. Armour disables this feature if the armour's AC is higher than your natural AC.
-
-EG:
-If your natural AC is 16 and your armour has an AC of 12, your AC will remain 16. If the armour's AC is 18, then your AC becomes 18
+You gain 1 Max HP at level 1, and continue getting 1 Max HP each level.
 ```
+
 ## Fucking rush 'em [PH]
 ```
 1 AP, Range 5ft
@@ -33,10 +31,4 @@ If your natural AC is 16 and your armour has an AC of 12, your AC will remain 16
 Your height, mass and conveniently placed tusks on your shoulders allow you to ram into the opposition with violent force.
 
 If you willingly move 15ft in a straight line, you may use this feature to Charge your enemy. Dealing (proficiency)d4 of bludgeoning damage on a failed strength or dexterity saving throw and knocking them prone.
-```
-## Chitinous Resistance [PH]
-```
-[Beetali][Passive]
-
-When damaged, reduce damage from physical damage types by 3.
 ```
