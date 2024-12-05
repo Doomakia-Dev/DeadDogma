@@ -30,5 +30,5 @@ You gain 1 Max HP at level 1, and continue getting 1 Max HP each level.
 
 Your height, mass and conveniently placed tusks on your shoulders allow you to ram into the opposition with violent force.
 
-If you willingly move 15ft in a straight line, you may use this feature to Charge your enemy. Dealing (proficiency)d4 of bludgeoning damage on a failed strength or dexterity saving throw and knocking them prone.
+If you willingly move 20ft in a straight line, you may use this feature to Charge your enemy. Dealing (proficiency)d4 of bludgeoning or piercing damage on a failed strength or dexterity saving throw and knocking them prone.
 ```
