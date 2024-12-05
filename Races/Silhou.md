@@ -23,6 +23,11 @@ When you make a Melee Strike, your range has an additional 5ft
 
 You can use your claws to make an unarmed strike against a target, dealing 1d6 slashing damage.
 
+## Feline reflexes (reaction)
+[Silhou]
+
+Using your slim build and lightweight, your movement makes you a harder target, giving you a +2 circumstance bonus to AC
+
 ## Vantablack shadow
 [Silhou]
 
