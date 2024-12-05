@@ -26,7 +26,7 @@ You can use your claws to make an unarmed strike against a target, dealing 1d6 s
 ## Feline reflexes (reaction)
 [Silhou]
 
-Using your slim build and lightweight, your movement makes you a harder target, giving you a +2 circumstance bonus to AC
+Using your slim build and lightweight, your movement makes you a harder target, giving you a +2 circumstance bonus to AC against the attack
 
 ## Vantablack shadow
 [Silhou]
