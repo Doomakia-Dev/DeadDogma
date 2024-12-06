@@ -5,13 +5,20 @@ Size - Medium, rarely small
 
 Speed - 40 feet
 
+Vision - You can see up to 30ft in the dark
+
 ## Variety
 The most glaring feature of a Silhou would be their eyes. The amount of eyes a Silhou has can range from 2 or a single eye on the left or right of their face. The colour varies, possible of taking on more cat-like colourisation or human tones. The shape of their eyes can signify the age of of a Silhou, being born with very large round eyes and as they age they take on more almond, flatter shapes. It is to the noted that some Silhou don't grow out of their bigger eyes.
 
 A Silhou's hair is always quite spiky and defined to stand outfrom the rest of their silhouette. While naturally black with the rest of their fur, some Silhou change the colour of their hair or even other patches on their body to better stand out from the rest of their head or body. Their tails can also vary from very slim with a rounded end to being incredibly fuzzy like that of a maine coon's
 
 #  Capabilities
-Using their lightweight body, they perform feats of impressive agility to evade danger.
+Your vantablack fur and lightweight body give you an exceptional edge in stealth and agility.
+
+## Vantablack fur
+[Silhou]
+
+You have proficiency in Stealth
 
 ## Gob-kat limbs
 [Silhou]
@@ -23,9 +30,4 @@ You can use your claws to make an unarmed strike against a target, dealing 1d6 s
 ## Feline reflexes (reaction)
 [Silhou]
 
-Using your slim build and lightweight, your movement makes you a harder target, giving you a +2 circumstance bonus to AC against the attack
-
-## Vantablack shadow
-[Silhou]
-
-When in perfect darkness, add half your proficiency (rounded down) to your stealth roll, even if you already have proficiency or expertise in the skill.
+Using your slim build and lightweight, your movement makes you a harder target, giving you a +2 circumstance bonus to AC against the attack.
