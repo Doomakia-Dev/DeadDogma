@@ -5,6 +5,8 @@ Size - Medium
 
 Speed - 30 Feet
 
+Vision - 5 Feet of Darkvision
+
 ## Variety
 A Beetali's horns have a plethora of variety, few somehow representing other species that aren't involved in their DNA. They can be long, curved, gnarled, or a mix of all of the above. There is also a chance a beetali is born with a horn growing in place of an eye, curving out of the socket.
 
