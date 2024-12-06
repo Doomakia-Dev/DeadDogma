@@ -5,7 +5,7 @@ Size - Small, rarely Medium
 
 Speed - 30ft
 
-Vision - 5ft of Darkvision
+Vision - 5 feet of Darkvision
 
 ## Variety
 There's 4 types of Drafa. Fire, Ice, Earth and Lightning. The fur colour of a Drafa often takes on colours associated with the element, though it's more often than not natural hair colours that *kind of* give the impression of their element.
