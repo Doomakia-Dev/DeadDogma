@@ -18,7 +18,7 @@ Your vantablack fur and lightweight body give you an exceptional edge in stealth
 ## Vantablack fur
 [Silhou]
 
-You have proficiency in Stealth
+When in perfect darkness, add half your proficiency (rounded down) to your stealth roll, even if you already have proficiency or expertise in the skill.
 
 ## Gob-kat limbs
 [Silhou]
