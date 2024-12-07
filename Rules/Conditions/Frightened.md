@@ -1,0 +1,1 @@
+Often coupled with a value to determine severity,

@@ -1,0 +1,1 @@
+Items with this trait can be thrown utilising the [Throwing Strike Action](ᛃ%20-%20Strike#Throwing Strike Action).

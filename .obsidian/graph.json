@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Rules  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:Races  ",
       "color": {
         "a": 1,
@@ -34,6 +27,34 @@
         "a": 1,
         "rgb": 5399264
       }
+    },
+    {
+      "query": "path:\"Rules/Character Creation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "path:Rules/Traits  ",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
+    },
+    {
+      "query": "path:Rules/Actions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14715730
+      }
+    },
+    {
+      "query": "path:Rules/Conditions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": true,
@@ -42,10 +63,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.8359375,
-  "repelStrength": 6.82291666666667,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5973569706250477,
+  "centerStrength": 0.598727984344423,
+  "repelStrength": 0,
+  "linkStrength": 0.0163405088062622,
+  "linkDistance": 70,
+  "scale": 0.4260800695733235,
   "close": true
 }
