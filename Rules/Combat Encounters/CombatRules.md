@@ -9,7 +9,7 @@ Combatants gain all 3 AP and their Free action at the start of the encounter and
 ## Starting your turn
 
 - Any effects that are supposed to occur each turn should be applied before making actions, such as passive healing or the persistent effects of a condition.
-- If you have any conditions applies before combat began or from a previous round, reduce the time remaining for that condition by one round. If the condition reduces to 0, remove the condition.
+- If you have any conditions that apply before combat began or from a previous round, reduce the time remaining for that condition by one round. If the condition reduces to 0, remove the condition.
 - You can use Free Actions or Reactions that trigger at the start of your turn before using an AP.
 - If you are in Critical Condition, Roll a save at a DC of 11 (Temp ruling).
 
