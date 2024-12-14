@@ -1,3 +1,6 @@
+**Disclaimer**
+This project is in VERY early development. It's guarenteed that the product you see here is not representative of how the final product will look. This undertaking is new territory, please bear with me.
+
 # Welcome to the Dead Dogma project page
 Dead Dogma is a Combat and Survival focused TTRPG set in Regium, A world of floating isles orbiting a planetoid mega-dungeon-cave-system known by many as **The Heart**, housing a lethal ecosystem that wants nothing but your death. Unfortunately, that's where you work.
 
