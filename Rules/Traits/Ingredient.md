@@ -1,0 +1,1 @@
+Ingredients are a type of [[Item]] that typically contain alchemical properties, they are typically accompanied with descriptions containing their effects on potions they're mixed with. They are vital in creating potions as well as alchemical items.

@@ -1,0 +1,1 @@
+Potions are a type of [[Item]] that typically contain alchemical fluids, they are typically accompanied by [[Alchemical Attributes]], as well as descriptions containing their effects when Throw, Spilled or Drunk

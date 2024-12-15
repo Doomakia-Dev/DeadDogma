@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Races  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Guilds  ",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "path:Items  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "path:\"Rules/Character Creation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "path:Rules/Traits  ",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
+    },
+    {
+      "query": "path:Rules/Actions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14715730
+      }
+    },
+    {
+      "query": "path:Rules/Conditions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.598727984344423,
+  "repelStrength": 0,
+  "linkStrength": 0.0163405088062622,
+  "linkDistance": 70,
+  "scale": 0.4260800695733235,
+  "close": true
+}

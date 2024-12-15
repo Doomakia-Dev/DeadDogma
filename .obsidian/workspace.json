@@ -1,0 +1,346 @@
+{
+  "main": {
+    "id": "8908d1a956c9ac22",
+    "type": "split",
+    "children": [
+      {
+        "id": "f662d535402d76cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43556bf433e20741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Traits/Thrown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thrown"
+            }
+          },
+          {
+            "id": "7107fa4b6cdd0f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races/Drafa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drafa"
+            }
+          },
+          {
+            "id": "0c4a2b1af2b358b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Weapons/Basic Sword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Sword"
+            }
+          },
+          {
+            "id": "2c554e6389e709ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Actions/ᛃ - Coerce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ᛃ - Coerce"
+            }
+          },
+          {
+            "id": "1b47d93b1ce2ef1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Actions/ᛃ - Coerce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ᛃ - Coerce"
+            }
+          },
+          {
+            "id": "71f8bf6dfae9c704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Actions/ᛃ - Bully.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ᛃ - Bully"
+            }
+          },
+          {
+            "id": "b323d84647bea6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Consumables/Ingredients/Bio-Beans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bio-Beans"
+            }
+          },
+          {
+            "id": "f27b3697181053fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Consumables/Potions/Potion Of Healing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Potion Of Healing"
+            }
+          },
+          {
+            "id": "5c2a7bfc3bccbfd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Consumables/Potions/Potion Of Healing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Potion Of Healing"
+            }
+          },
+          {
+            "id": "f2ae4632f7652a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Character Creation/Ability Scores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ability Scores"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0449fdc2c59cd2cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd68db4a7a409a5b",
+        "type": "tabs",
+        "dimension": 57.70423991726991,
+        "children": [
+          {
+            "id": "962a8246cfdef3a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0cdc9e90f0806e19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4f49a31eedea3bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a5d0f358de1b809",
+        "type": "tabs",
+        "dimension": 42.29576008273009,
+        "children": [
+          {
+            "id": "44f914d28543408a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 527.5
+  },
+  "right": {
+    "id": "230b39a937e9f50e",
+    "type": "split",
+    "children": [
+      {
+        "id": "54758a69ed9f5c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9172c9bc57cd6e23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "468eca83518a8fa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fd87544892fbe948",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c970108cc10d8596",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f27b3697181053fa",
+  "lastOpenFiles": [
+    "Items/Consumables/Ingredients/Flesh fungus.md",
+    "Items/Consumables/Ingredients/Blood.md",
+    "Items/Weapons/Basic Sword.md",
+    "Items/Consumables/Ingredients/Bio-Beans.md",
+    "Rules/Conditions/Stunned.md",
+    "Rules/Conditions/Frightened.md",
+    "Items/Consumables/Potions/Potion Of Healing.md",
+    "Rules/Traits/Ingredient.md",
+    "Rules/Traits/Item.md",
+    "Rules/Traits/Potion.md",
+    "Rules/Traits/Thrown.md",
+    "Rules/Character Creation/Ability Scores.md",
+    "Rules/Character Creation/Proficiency.md",
+    "Rules/Character Creation/Skills & Saves.md",
+    "Rules/Actions/ᛃ - Brew.md",
+    "Rules/Actions/ᛃ - Mix.md",
+    "Rules/Actions/ᛃ - Bully.md",
+    "Rules/Combat Encounters/CombatRules.md",
+    "Rules/Difficulty Classes.md",
+    "Rules/Actions/ᛃ - Coerce.md",
+    "Rules/Actions/ᛃ - Strike.md",
+    "Rules/Conditions",
+    "Rules/Character.md",
+    "ᛃ.md",
+    "Rules/Traits/Weapon.md",
+    "README.md",
+    "Pasted image 20241204022013.png",
+    "Guilds/Hunter.md",
+    "Items/Weapons",
+    "Items/Consumables/Ingredients",
+    "Items/Consumables/Potions",
+    "Rules/Character Creation",
+    "Rules/Traits",
+    "Rules/Combat Encounters",
+    "Items/Consumables",
+    "Items",
+    "DeadDogma"
+  ]
+}

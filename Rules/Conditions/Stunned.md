@@ -1,0 +1,1 @@
+Often coupled with a value to determine severity, the Stunned condition will take away 1 action from the afflicted per the appended value, this has a maximum of 4.
