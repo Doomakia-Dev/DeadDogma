@@ -1,1 +1,1 @@
-Items with this trait can be thrown utilising the [Throwing Strike Action](ᛃ%20-%20Strike#Throwing Strike Action).
+Items with this trait can be used as a ranged weapon. When thrown, if targetting and hitting a creature directly it will use your strength modifier for attack rolls and damage rolls.
