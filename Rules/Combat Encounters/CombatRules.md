@@ -19,8 +19,8 @@ Actions are your main set of tools during encounters, and are always done at the
 While many actions rely on your Race and Guild, there's default actions anyone can perform as detailed below.
 
 ### Basic Actions
-- Strike
-- Stride
+- [Strike](../Actions/Strike.md)
+- [Stride](../Actions/Stride.md)
 - Leap
 - Escape
 - Interact
