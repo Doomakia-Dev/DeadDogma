@@ -3,7 +3,7 @@
 	- Hit die
 		These are the dice that make up your HP. They are used for your personal healing potion.
 
-- [Proficiency bonus](Character Creation/Proficiency.md)
+- (Character Creation/Proficiency.md)[Proficiency bonus]
 	A reflection of your natural prowess as you improve.
 
 - Armour Reduction (PH)
