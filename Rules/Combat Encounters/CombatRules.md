@@ -6,7 +6,7 @@ A lot of this is going to be slightly altered Pathfinder 2nd edition. Just so yo
 Rounds are comprised of each creature's turn, taken in order of their [Initiative]. Creatures with the highest initiative will go first, with lower initiative creatures following behind until reaching the lowest.
 
 ## Playing a round
-On a creature's [turn](#your-turn) they may spend their [Action Points (AP)](##actions) to perform [Actions](###basic-actions) until deciding to end their turn and allowing the next creature's turn to begin. Creatures may act out of turns if the conditions for a [Reaction](##reaction) or [Free Action](##free-action) are met.
+On a creature's [turn](#your-turn) they may spend their [Action Points (AP)](#actions) to perform [Actions](#basic-actions) until deciding to end their turn and allowing the next creature's turn to begin. Creatures may act out of turns if the conditions for a [Reaction](#reaction) or [Free Action](#free-action) are met.
 
 ## Onto the next round
 When the final creature's turn has ended, the next round begins and the turn order repeats until combat has ended.
