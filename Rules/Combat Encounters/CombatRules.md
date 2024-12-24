@@ -1,12 +1,21 @@
 A lot of this is going to be slightly altered Pathfinder 2nd edition. Just so you know. If you're seeing this because I screen-capped it or I'm fucking dead then you might want to cross reference [Archives of Nethys's](https://2e.aonprd.com/Actions.aspx) page about actions and stuff. Or don't. I'm not yo momma.
 
 # Turns and rounds
-Rounds are comprised of each creature's turn, taken in order of their [Initiative]. On a creature's turn they may spend their [Action Points (AP)] to perform [Actions] until deciding to end their turn and allowing the next creature's turn to begin. Creatures may act out of turns if the conditions for a [Reaction] or [Free Action] are met. When the final creature's turn has ended, the next round begins and the turn order repeats until combat has ended.
 
 ## Initiative
+Rounds are comprised of each creature's turn, taken in order of their [Initiative]. Creatures with the highest initiative will go first, with lower initiative creatures following behind until reaching the lowest.
+
+## Playing a round
+On a creature's [turn](#Your_Turn) they may spend their [Action Points (AP)] to perform [Actions] until deciding to end their turn and allowing the next creature's turn to begin. Creatures may act out of turns if the conditions for a [Reaction] or [Free Action] are met.
+
+## Onto the next round
+When the final creature's turn has ended, the next round begins and the turn order repeats until combat has ended.
+
+## Ending the fight
+Combat ends when all creatures are defeated, halted by an event or circumstance or the DM dictates it to be over. If using an XP system you may allocate experience and claim any loot that may have been rewarded for the fight.
 
 # Your turn
-In combat, each creature gets 3 **Action Points (AP), a **Reaction** and **Free Actions**
+In combat, each creature gets 3 **Action Points (AP)**, a **Reaction** and **Free Actions**
 Combatants gain all 3 AP and their Free action at the start of the encounter and at the start of each turn. Before elaborating, though, players must know the start of your turn is just as important as what you do on your turn.
 
 ## Starting your turn
