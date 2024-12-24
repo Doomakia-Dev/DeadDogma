@@ -1,10 +1,13 @@
 A lot of this is going to be slightly altered Pathfinder 2nd edition. Just so you know. If you're seeing this because I screen-capped it or I'm fucking dead then you might want to cross reference [Archives of Nethys's](https://2e.aonprd.com/Actions.aspx) page about actions and stuff. Or don't. I'm not yo momma.
 
-# Turn Order
+# Turns and rounds
+Rounds are comprised of each creature's turn, taken in order of their [Initiative]. On a creature's turn they may spend their [Action Points (AP)] to perform [Actions] until deciding to end their turn and allowing the next creature's turn to begin. Creatures may act out of turns if the conditions for a [Reaction] or [Free Action] are met. When the final creature's turn has ended, the next round begins and the turn order repeats until combat has ended.
+
+## Initiative
 
 # Your turn
 In combat, each creature gets 3 **Action Points (AP), a **Reaction** and **Free Actions**
-Combatants gain all 3 AP and their Free action at the start of the encounter and when they end their turn. Before elaborating, though, players must know the start of your turn is just as important as what you do on your turn.
+Combatants gain all 3 AP and their Free action at the start of the encounter and at the start of each turn. Before elaborating, though, players must know the start of your turn is just as important as what you do on your turn.
 
 ## Starting your turn
 
@@ -33,5 +36,21 @@ Though rare, if multiple Reactions triggers are met at once, you must decide on 
 Free Actions are Acts you can make without using AP, and may require a trigger like Reactions. If you have multiple Free Actions with the same trigger, you can only use one of those Free Actions. If a Free Action does not require a trigger, you may use it like a single action without the cost.
 
 ## Movement
+
+
+# Taking hits
+It's very common that you will, in fact, get hit. A lot. Here's how to make it suck less.
+
+## [Evasion]
+If a creature targets you with a direct attack, you may contest their attack by [evading]. The attacking creature and evading creature make an attack roll and an evasion roll respectively.\\
+
+Attack roll modifiers are based on the ability score the creature's weapon uses, along with their proficiency modifier if they are proficient with the weapon. Other bonuses that affect attack rolls are also applied.\
+Evasion roll modifiers are based on the creature's dexterity, along with their proficiency modifier if they are proficient in evasion. Other bonuses that affect evasion rolls are also applied.
+If the evasion roll is higher than the attack roll, the attack fails to hit. However, if the attack roll is higher than the evasion roll, the attack hits and damage is rolled.
+
+## [Armour Value \[Placeholder]]
+When attacked and hit, the damage you take is reduced by your armor. first, roll your evasion if you choose to, if your evasion beats the opposing hit roll, you dodge, else you're hit.\
+if you're hit, subtract your AV and their True damage by each other until one reaches zero. Do the same with the rest of the damage until it reaches reaches zero. any damage left is taken as HP damage.
+
 
 
