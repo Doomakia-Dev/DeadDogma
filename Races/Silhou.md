@@ -18,7 +18,7 @@ Your vantablack fur and lightweight body give you an exceptional edge in stealth
 ## Vantablack Feline
 [Silhou]
 
-Your incredibly dark fur and lightweight body give you an advantage in not being seen nor hit. You have proficiency in Evasion. When concealed by darkness, [trickery](..\Rules\Character_Creation\Skills-&-Saves###Trickery) rolls to sneak gain a +2 circumstance bonus.
+Your incredibly dark fur and lightweight body give you an advantage in not being seen nor hit. You have proficiency in Evasion. When concealed by darkness, [trickery](..\..\Rules\Character_Creation\Skills-&-Saves###Trickery) rolls to sneak gain a +2 circumstance bonus.
 
 ## Gob-kat limbs
 [Silhou]
