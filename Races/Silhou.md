@@ -15,10 +15,10 @@ A Silhou's hair is always quite spiky and defined to stand outfrom the rest of t
 #  Capabilities
 Your vantablack fur and lightweight body give you an exceptional edge in stealth and agility.
 
-## Vantablack fur
+## Vantablack Feline
 [Silhou]
 
-When in perfect darkness, add half your proficiency (rounded down) to your stealth roll, even if you already have proficiency or expertise in the skill.
+Your incredibly dark fur and lightweight body give you an advantage in not being seen nor hit. You have proficiency in Evasion. When concealed by darkness, skullduggery rolls to sneak gain a +2 circumstance bonus.
 
 ## Gob-kat limbs
 [Silhou]
@@ -26,8 +26,3 @@ When in perfect darkness, add half your proficiency (rounded down) to your steal
 Your lanky arms grant you extra reach. When you make a Melee Strike, your range has an additional 5ft.
 
 You can use your claws to make an unarmed strike against a target, dealing 1d6 slashing damage. This attack counts as [Unarmed], [Brawling] and [Finesse]
-
-## Feline reflexes (reaction)
-[Silhou]
-
-Using your slim build and lightweight, your movement makes you a harder target, giving you a +2 circumstance bonus to AC against the attack.
