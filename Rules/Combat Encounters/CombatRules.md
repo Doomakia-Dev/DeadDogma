@@ -61,7 +61,7 @@ If the evasion roll is higher than the attack roll, the attack fails to hit. How
 
 ## [Armour Value \[Placeholder]]
 When attacked and hit, the damage you take is reduced by your armor. first, roll your evasion if you choose to, if your evasion beats the opposing hit roll, you dodge, else you're hit.\
-if you're hit, subtract your AV and their True damage by each other until one reaches zero. Do the same with the rest of the damage until it reaches reaches zero. any damage left is taken as HP damage.
+if you're hit, subtract your AV and their Armour damage by each other until one reaches zero. Do the same with the rest of the damage until it reaches reaches zero. any damage left is taken as HP damage. Armour damage is not taken to HP.
 
 
 
